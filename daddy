@@ -1,5 +1,7 @@
 game.StarterGui:SetCore("SendNotification", {
-		Title = "https://discord.gg/xCPkF86fRm";
-		Text = "Out Dated Join ^ for new";
-		Duration = 20;
-	})
+	Title = "Join dc for new";
+	Text = "link Has Been copied";
+	Icon = "rbxthumb://type=Asset&id=8641731778&w=150&h=150";
+	Duration = 13;
+})
+wait(10) return end
